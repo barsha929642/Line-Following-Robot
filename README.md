@@ -1,7 +1,7 @@
 Line Following Robot with Arduino Uno
 
 
-Welcome to the Line Following Robot project repository! This project demonstrates the creation of a simple yet effective line-following robot using an Arduino Uno. The robot is designed to autonomously follow a predefined path marked by a contrasting colored line on a surface.
+Welcome to the Line Following Robot project repository! This project demonstrates the creation of a simple yet effective line-following robot using an Arduino Uno. The robot is designed to autonomously follow a predefined path marked by a contrasting coloured line on a surface.
 
 Overview
 The Line Following Robot utilizes infrared (IR) sensors to detect the line and make decisions about its movement. The Arduino Uno processes the sensor data and controls the motors to keep the robot following the line.
@@ -31,7 +31,6 @@ If you have ideas for improvements or feature enhancements, feel free to contrib
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Inspiration: [Link to any inspiration or related project]
-Thanks to [mention anyone else you'd like to acknowledge]
+Acknowledgements
+Thanks to Nova Ahmed(My faculty Advisor)
 Happy coding and robot building! 🤖✨
